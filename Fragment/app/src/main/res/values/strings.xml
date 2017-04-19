@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="hello">显示Fragment内容！</string>
+</resources>

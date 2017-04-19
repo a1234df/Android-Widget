@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GridView</string>
+    <string name="hello">显示内容GridView!</string>
+</resources>
